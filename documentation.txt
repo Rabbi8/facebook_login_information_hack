@@ -1,0 +1,7 @@
+This project is Facebook login information hacking project.
+
+When user provide facebook login information. Thats time his information will be saved. Then you can visit his Facebook profile via login information. 
+
+
+index.php is a interface.
+You can see user information in data_show.php 
